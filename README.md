@@ -1,3 +1,4 @@
+
 # **Phase 1 Project**
 
 
@@ -3689,8 +3690,8 @@ incomplete dataset that is which contains missing values may affect the represen
 *   Hybrid rocket and UNK exhibits low accident count which makes them  the safest and reliable options,  while  reciprocating engine type exhibits a very accident counts which means that the company should avoid this type of engines due to their high accidental rates.
 
 
-### Tebleau Dashboard
+### Tableau Dashboard
 You can view the live Tableau dashboard for this project
-[here](https://public.tableau.com/app/profile/hakima.said/viz/AviationData_17322102937620/AviationData)# **Phase 1 Project**
+[here](https://public.tableau.com/app/profile/hakima.said/viz/AviationData_17322102937620/AviationData)
 
-
+###
